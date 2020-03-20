@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 20, 2018, 7:16:37 PM
+    Author     : dclop
+*/
+
+.root{
+    -fx-font: normal bold 12px serif;
+    -fx-background-color:#eadeea;
+    
+}
+.button{
+    -fx-background-color:#4286f4;
+}
